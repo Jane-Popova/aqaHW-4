@@ -26,7 +26,7 @@ class OrderCardTest {
     @Test
     void testCorrectInput() {
         String planningDate = generateDate(4, "dd.MM.yyyy");
-        String city = "Лондон";
+        String city = "Симферополь";
         String name = "Иванов Иван";
         String phone = "+79781234567";
 
